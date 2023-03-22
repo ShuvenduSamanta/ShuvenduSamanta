@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Blockchain Technologies**
 
-- 💬 Ask me about **html, css, java, cpp**
+- 💬 Ask me about **html, css, react, java, cpp**
 
 - 📫 How to reach me **shuvendu247@gmail.com**
 
