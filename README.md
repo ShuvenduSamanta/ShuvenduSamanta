@@ -23,10 +23,10 @@
 <p align="center">
 <a href="https://linkedin.com/in/shuvendu-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvendu-samanta" height="30" width="40" /></a>
 <a href="https://twitter.com/shuvendusamant4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvendusamant4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shuvendusamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvendusamanta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shuvendu-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuvendu-samanta" height="30" width="40" /></a>
 <a href="https://fb.com/shuvendu09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvendu09" height="30" width="40" /></a>
 <a href="https://instagram.com/vectorsam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vectorsam_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shuvendusamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvendusamanta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shuvendu247/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shuvendu247/profile" height="30" width="40" /></a>
 </p>
 
