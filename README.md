@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **html, css, react, java, cpp**
 
-- 📫 How to reach me **shuvendu247@gmail.com**
+- 📫 reach me on **shuvendu247@gmail.com**
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
