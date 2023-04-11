@@ -9,7 +9,7 @@
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-- 🌱 I’m currently learning **react, mysql**
+- 🌱 I’m currently learning **react, mysql, web3**
 
 - 🤝 I’m looking for help with **Blockchain Technologies**
 
